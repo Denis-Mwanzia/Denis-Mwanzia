@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast | Python & Flutter Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+Web+%26+Mobile+Apps;Always+Learning+Something+New;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+Web+%26+Mobile+Apps;Always+Learning+Something+New;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
 ---
