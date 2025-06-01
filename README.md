@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Denis Mwanzia</h1>
 <h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast | Python & Flutter Learner</h3>
@@ -58,8 +57,6 @@
   <img src="https://raw.githubusercontent.com/Denis-Mwanzia/Denis-Mwanzia/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚠️ Ensure GitHub Pages is enabled on the `output` branch so the snake renders.
-
 ---
 
 ### 🔗 Connect With Me
@@ -77,4 +74,3 @@
 > *"Learning is infinite — I build daily to learn, and I learn to build better."*
 
 ---
-
