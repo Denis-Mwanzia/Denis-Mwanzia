@@ -254,8 +254,8 @@
 <div align="center">
   <h3>🔥 Git Activity & Repository Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Denis-Mwanzia&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=Denis-Mwanzia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Mwanzia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </p>
 </div>
 
