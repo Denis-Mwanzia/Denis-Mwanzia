@@ -19,8 +19,6 @@
   </a>
 </div>
 
----
-
 ### 🌟 About Me
 
 <div align="center">
@@ -47,8 +45,6 @@
 - 💬 **Discussions**: Always open to tech talks and collaboration
 - 🤝 **Collaboration**: Looking for exciting projects to contribute to
 - 📧 **Contact**: [denismwanzia56@gmail.com](mailto:denismwanzia56@gmail.com)  
-
----
 
 ### 🛠️ Tech Arsenal
 
@@ -107,8 +103,6 @@
   </p>
 </div>
 
----
-
 ### 🚀 Featured Projects
 
 <div align="center">
@@ -159,7 +153,6 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
       <p><a href="https://github.com/Denis-Mwanzia/AI_MasterClass">🔗 View Project</a></p>
     </td>
@@ -190,8 +183,6 @@
   </p>
 </div>
 
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -202,8 +193,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Denis-Mwanzia&theme=tokyonight" height="180" />
 </p>
-
----
 
 ### 🏆 Achievements & Milestones
 
@@ -282,8 +271,6 @@
   </table>
 </div>
 
----
-
 ### 🛠️ Git Expertise Showcase
 
 <div align="center">
@@ -328,15 +315,11 @@
   </p>
 </div>
 
----
-
 ### 🐍 Contribution Graph Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Denis-Mwanzia/Denis-Mwanzia/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
 
 ### 🤝 Let's Connect & Collaborate
 
@@ -398,8 +381,6 @@
   </p>
 </div>
 
----
-
 ### 💡 Fun Fact & Philosophy
 
 <div align="center">
@@ -416,8 +397,6 @@
     <strong>Let's code the future together! 🚀</strong>
   </p>
 </div>
-
----
 
 <div align="center">
   <h3>🎯 Thanks for Visiting!</h3>
